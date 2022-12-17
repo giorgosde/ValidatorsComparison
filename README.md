@@ -12,7 +12,7 @@ both approaches return the same results. *Note: The project contains no endpoint
 consistency and also speeds up the development.
 
 #### Stack:
-- .NET 6
+- .NET 7
 - FluentValidation
 - XUnit
 - FluentAssertions
